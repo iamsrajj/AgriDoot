@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agridoot - Revolutionizing Agriculture with Technology
+# Agridoot - Cultivating Prosperity
 
 Welcome to Agridoot, the innovative solution that bridges the gap between traditional farming practices and cutting-edge technology. Agridoot aims to transform agriculture by addressing key challenges faced by farmers today.
 
