@@ -53,10 +53,21 @@ If you have any questions, or inquiries, or would like to get in touch with us r
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agri_doot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/AgriDoot)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/agri_doot)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=website&logoColor=white)](https://www.agridoot.co.in)
+<a href="https://www.instagram.com/agri_doot" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/agridoot" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.youtube.com/@agri_doot" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="https://www.agridoot.co.in" target="_blank">
+  <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=website&logoColor=white" alt="Website">
+</a>
 
 </div>
 
