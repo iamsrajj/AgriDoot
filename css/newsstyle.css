@@ -1,0 +1,46 @@
+.news-list {
+  margin: 30px;
+  padding: 20px;
+  height: 350px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid #2f2e2e;
+  /* background: gainsboro; */
+  /* background-image: url("secimg.png"); */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 20px;
+  /* border: 1px solid rgba(255, 255, 255, 0.336); */
+}
+
+.news-list:hover {
+  transform: scale(1.05);
+}
+
+#news-col {
+  text-decoration: none;
+}
+
+#news-col:hover {
+  text-decoration: underline;
+  color: rgba(0, 0, 255, 0.831);
+}
+
+.gallery-list {
+  margin: 30px;
+  padding: 20px;
+  height: 350px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid #2f2e2e;
+  /* background: gainsboro; */
+  /* background-image: url("secimg.png"); */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 20px;
+  /* border: 1px solid rgba(255, 255, 255, 0.336); */
+}
